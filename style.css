@@ -1,0 +1,28 @@
+section {
+    border: 2px solid black;
+    width: 600px;
+    height: 100px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 100px 200px 300px 400px;
+}
+
+div {
+    color: red;
+    background-color: yellow;
+    width: 700px;
+    height: 100px;
+    padding: 60px 20px;
+}
+
+h1 {
+    color: blue;
+}
+
+#title {
+    color: darkred;
+}
+
+.text {
+    background-color: yellow;
+}
